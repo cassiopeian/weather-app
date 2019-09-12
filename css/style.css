@@ -9,7 +9,7 @@ body {
 .logo {
   margin-top: 50px;
   margin-left: 5%;
-  padding-bottom: 200px;
+  padding-bottom: 10%;
   width: 200px;
   text-align: center;
 }
@@ -24,7 +24,6 @@ p {
   margin: 5px auto;
 }
 .weather {
-  /*margin-top: 400px;*/
   margin-left: 5%;
   width: 200px;
   text-align: center;
