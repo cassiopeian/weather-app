@@ -62,24 +62,28 @@ $("#clear").on("click", function() {
     console.log(temperature, convertToFahrenheit(temperature));
     result = 0;
     $("#result").html(result);
+    $("#temperature").html(result);
   // }
   // else if (temperature > 12.8 && temperature < 18.9) {
     $("body").css("background-image", "url(https://i.imgur.com/NVj2Lo2.gif)");
     console.log(temperature, convertToFahrenheit(temperature));
     result = 0;
     $("#result").html(result);
+    $("#temperature").html(result);
   // }
   // else if (temperature > 65 && temperature < 76) {
     $("body").css("background-image", "url(https://i.imgur.com/FMFKQpw.gif)");
     console.log(temperature, convertToFahrenheit(temperature));
     result = 0;
     $("#result").html(result);
+    $("#temperature").html(result);
   // }
   // else if (temperature > 75) {
     $("body").css("background-image", "url(https://i.imgur.com/EbuqV5S.gif)");
     console.log(temperature, convertToFahrenheit(temperature));
     result = 0;
     $("#result").html(result);
+    $("#temperature").html(result);
   // }
   });
 
