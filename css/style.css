@@ -1,0 +1,58 @@
+body {
+  font-family: 'Poiret One', cursive;
+  background-image: url("https://i.imgur.com/MJNK0cn.gif");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-color: #000;
+  color: #fff;
+}
+.logo {
+  margin-top: 50px;
+  margin-left: 5%;
+  padding-bottom: 200px;
+  width: 200px;
+  text-align: center;
+}
+.logo img {
+  align-content: center;
+}
+h1 {
+  margin: 5px auto;
+}
+p {
+  font-size: 30px;
+  margin: 5px auto;
+}
+.weather {
+  /*margin-top: 400px;*/
+  margin-left: 5%;
+  width: 200px;
+  text-align: center;
+}
+span {
+  font-size: 75px;
+  padding-bottom: 25px;
+}
+input {
+  font-family: 'Poiret One', cursive;
+  display: block;
+  font-size: 20px;
+  width: 188px;
+  border: 1px solid white;
+  letter-spacing: 2px;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+button {
+  display: block;
+  font-family: 'Poiret One', cursive;
+  letter-spacing: 2px;
+  font-size: 15px;
+  color: #fff;
+  background-color: #000;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid white;
+  margin-bottom: 5px;
+}
